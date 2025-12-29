@@ -1,3 +1,14 @@
+# Healthcare Patient Portal - QA Testing Project
+
+## 📚 Table of Contents
+- [Project Overview](#project-overview)
+- [Test Objectives](#test-objectives)
+- [Test Cases](#test-cases)
+- [Bug Reports](#bug-reports)
+- [Tools Used](#tools-used)
+- [Contact](#contact)
+
+[Rest of your content...]
 # BUG-HR-001: No Account Lockout After Multiple Failed Login Attempts
 
 **Severity**: Critical
